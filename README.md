@@ -1,6 +1,8 @@
 # Privacy Policy
 
-## init
+Pages: https://over-patch.github.io/privacy/
+
+## Initialize
 以下を元に作成  
 https://github.com/pages-themes/slate
 
@@ -11,7 +13,7 @@ gem -v
 # 3.5.22
 ```
 
-## development
+## Development
 ローカル実行
 ```bash
 cd docs
@@ -19,3 +21,5 @@ bundle install
 bundle exec jekyll serve
 ```
 
+## Release
+mainブランチの内容がActionsによって自動リリースされる
