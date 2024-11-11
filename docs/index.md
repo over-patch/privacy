@@ -45,7 +45,7 @@ layout: default
 ### 7. お問い合わせ先
 本ポリシーに関するご質問や、個人情報の取扱いに関するご相談については、下記のメールアドレスにて受け付けております。
 
-**連絡先:** [overpatch.ch@gmail.com]
+**連絡先:** [overpatch.ch@gmail.com](mailto:overpatch.ch@gmail.com)
 
 ---
 
